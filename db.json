@@ -1,11 +1,1 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+{"tags":[{"name":"Brown University","category":"actor","intention":"benign","id":1},{"name":"Bitsight","category":"actor","intention":"benign","id":2},{"name":"Archive.org","category":"actor","intention":"benign","id":3},{"name":"FortifyData","category":"actor","intention":"benign","id":4},{"name":"Project Sonar","category":"actor","intention":"benign","id":5},{"name":"Cloud System Networks","category":"actor","intention":"benign","id":6},{"name":"CERT-FR","category":"actor","intention":"benign","id":7},{"name":"Babbar","category":"actor","intention":"benign","id":8},{"name":"Ampere Innotech","category":"actor","intention":"benign","id":9},{"name":"BLEXBot","category":"actor","intention":"benign","id":10}]}
